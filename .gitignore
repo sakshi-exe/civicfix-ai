@@ -1,5 +1,8 @@
 venv/
 __pycache__/
 *.pyc
-.DS_Store
+Pothole-detection-2/
+runs/
+*.pt
 .env
+.DS_Store
