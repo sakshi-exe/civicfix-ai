@@ -1,0 +1,14 @@
+names:
+- crocodile crack
+- longitudinal crack
+- pothole
+nc: 3
+roboflow:
+  license: Public Domain
+  project: pothole-detection-huf2x
+  url: https://universe.roboflow.com/indian-institute-of-technology-madras-xamot/pothole-detection-huf2x/dataset/2
+  version: 2
+  workspace: indian-institute-of-technology-madras-xamot
+test: ../test/images
+train: ../train/images
+val: ../valid/images
